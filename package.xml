@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package>
-  <name>nsf-nri-lar-msgs</name>
+  <name>nsf_nri_lar_msgs</name>
   <version>0.0.0</version>
-  <description>The nsg-nri-lar-msgs package</description>
-  <maintainer email="thomas.howard@rochester.edu">thoward</maintainer>
+  <description>The nsf_nri_lar_msgs package</description>
+  <maintainer email="thomas.howard@rochester.edu">tmhoward</maintainer>
   <license>TODO</license>
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>message_generation</build_depend>

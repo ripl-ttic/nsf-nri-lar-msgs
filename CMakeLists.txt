@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(nsf-nri-lar-msgs)
+project(nsf_nri_lar_msgs)
 
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
@@ -16,6 +16,7 @@ generate_messages(
   DEPENDENCIES
   std_msgs
   geometry_msgs
+  sensor_msgs
 )
 
 catkin_package(
