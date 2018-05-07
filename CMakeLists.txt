@@ -9,7 +9,7 @@ find_package(catkin REQUIRED message_generation std_msgs geometry_msgs sensor_ms
 add_message_files(
   FILES
   AnnotatedImage.msg
-  UnAnnotatedImage.msg
+  UnannotatedImage.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
