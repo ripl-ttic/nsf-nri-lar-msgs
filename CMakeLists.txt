@@ -10,6 +10,7 @@ add_message_files(
   FILES
   AnnotatedImage.msg
   UnannotatedImage.msg
+  BehaviorSet.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
